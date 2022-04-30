@@ -11,8 +11,8 @@ from aiogram.dispatcher import FSMContext
 from aiogram.dispatcher.filters.state import State, StatesGroup
 
 # Объект бота
-APTOKEN = "5178682393:AAFjB9DA1fgNJoMBehvYQutrQ5P8Gy0K5m0"
-ADMIN = 1032320746
+APTOKEN = ""
+ADMIN = 
 #admin panel
 kb = types.ReplyKeyboardMarkup(resize_keyboard=True)
 kb.add(types.InlineKeyboardButton(text = "Рассылка"))
